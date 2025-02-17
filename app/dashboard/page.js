@@ -1,4 +1,3 @@
-// app/layout.js
 import React from 'react';
 import '@/app/globals.css';  // Global styles
 import Sidebar from '../components/Sidebar/Sidebar';
